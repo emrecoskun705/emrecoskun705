@@ -4,9 +4,8 @@ I'm Emre Coskun a Full Stack Developer. Also I like using Machine Learning and A
 
 :mailbox: Reach me out!
 
- [![Linkedin Badge](https://img.shields.io/badge/-Emre-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrecoskun48/) [![Mail Badge](https://img.shields.io/badge/-@emrecoskunl-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/emrecoskunl) [![Mail Badge](https://img.shields.io/badge/-emrecoskun705-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:emrecoskun705@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-emrecoskun48-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrecoskun48/) [![Mail Badge](https://img.shields.io/badge/-@emrecoskunl-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/emrecoskunl) [![Mail Badge](https://img.shields.io/badge/-emrecoskun705-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:emrecoskun705@gmail.com)
 
-<!-- TODO: Add last video link -->
 
 - 🔭 I’m currently improving myself in DevOps
 - 🤔 I’m looking for a job that will get me a real job experience.
