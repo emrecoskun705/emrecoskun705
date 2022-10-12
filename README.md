@@ -10,7 +10,7 @@ I'm Emre Coskun a Full Stack Developer. Also I like using Machine Learning and A
 - 🔭 I’m currently improving myself in DevOps
 - 🤔 I’m looking for a job that will get me a real job experience.
 - 📫 How to reach me: emrecoskun705@gmail.com.
-- ⚡ Hobies: Fitness💪, swimming and eating Pizza🍕
+- ⚡ Hobbies: Fitness💪, swimming and eating Pizza🍕
 
 #### Top Technologies
 
