@@ -8,7 +8,7 @@ I'm Emre Coskun a Full Stack Developer. Also I like using Machine Learning and A
 
 
 - 🔭 I’m currently working on ASP.NET
-- 📫 How to reach me: emrecoskun705@gmail.com.
+- 📫 How to reach me: emrecoskun705@gmail.com
 - ⚡ Hobbies: Fitness💪, swimming and eating Pizza🍕
 
 #### Top Technologies
