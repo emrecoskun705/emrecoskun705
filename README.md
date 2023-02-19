@@ -1,6 +1,6 @@
 ## Hi I'm Emre <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Emre Coskun a Full Stack Developer. Also I like using Machine Learning and AI in my projects. I spend my most of time learning new technologies and improving myself to become a successful developer.
+A Full Stack Developer who creates web and mobile applications. Also, I like to use the machine learning and AI projects that I have created in my applications. I spend most of my time learning new technologies and improving myself to become a successful developer.
 
 :mailbox: Reach me out!
 
