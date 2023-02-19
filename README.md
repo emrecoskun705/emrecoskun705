@@ -1,6 +1,6 @@
 ## Hi I'm Emre <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-A Full Stack Developer who creates web and mobile applications. Also, I like to use the machine learning and AI projects that I have created in my applications. I spend most of my time learning new technologies and improving myself to become a successful developer.
+A Full Stack Developer who creates web and mobile applications. Also, I like to use the machine learning and AI projects that I have created in my applications. I spend most of my time learning new technologies and improving myself to become a successful developer. I'm currently working as a software developer at DeskGate, a company based in Turkey that specializes in Remote Desktop and Employee Monitoring. Most of my time is spent using .NET and MSSQL, as well as Java for developing the mobile application of our product.
 
 :mailbox: Reach me out!
 
