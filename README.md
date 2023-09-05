@@ -2,14 +2,12 @@
 
 A Full Stack Developer who creates web and mobile applications. Also, I like to use the machine learning and AI projects that I have created in my applications. I spend most of my time learning new technologies and improving myself to become a successful developer. 
 <br/><br/>
-I'm currently working as a software developer at DeskGate, a company based in Turkey that specializes in Remote Desktop and Employee Monitoring. Most of my time is spent using .NET and MSSQL, as well as Java for developing the mobile application of our product.
 
 :mailbox: Reach me out!
 
  [![Linkedin Badge](https://img.shields.io/badge/-emrecoskun48-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrecoskun48/) [![Mail Badge](https://img.shields.io/badge/-@emrecoskunl-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/emrecoskunl) [![Mail Badge](https://img.shields.io/badge/-emrecoskun705-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:emrecoskun705@gmail.com)
 
 
-- 🔭 I’m currently learning Microservice Architecture
 - 📫 How to reach me: emrecoskun705@gmail.com
 - ⚡ Hobbies: Fitness💪, swimming and eating Pizza🍕
 
