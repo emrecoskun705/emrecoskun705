@@ -5,7 +5,7 @@ A Full Stack Developer who creates web and mobile applications. Also, I like to 
 
 :mailbox: Reach me out!
 
- [![Linkedin Badge](https://img.shields.io/badge/-emrecoskun48-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrecoskun48/) [![Mail Badge](https://img.shields.io/badge/-@emrecoskunl-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/emrecoskunl) [![Mail Badge](https://img.shields.io/badge/-emrecoskun705-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:emrecoskun705@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-emrecoskun48-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrecoskun48/)  [![Mail Badge](https://img.shields.io/badge/-emrecoskun705-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:emrecoskun705@gmail.com)
 
 
 - 📫 How to reach me: emrecoskun705@gmail.com
