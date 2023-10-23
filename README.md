@@ -1,6 +1,6 @@
 ## Hi I'm Emre <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-A Full Stack Developer who creates web and mobile applications. Also, I like to use the machine learning and AI projects that I have created in my applications. I spend most of my time learning new technologies and improving myself to become a successful developer. 
+I'm a Full Stack Developer specializing in web and mobile applications. I'm deeply committed to continuous learning and personal growth, always seeking to familiarize myself with the latest technologies to improve my skills.
 <br/><br/>
 
 :mailbox: Reach me out!
@@ -21,7 +21,6 @@ A Full Stack Developer who creates web and mobile applications. Also, I like to 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)](https://github.com/emrecoskun705/ecommerce_flutter)
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
 
 ### Others
 
