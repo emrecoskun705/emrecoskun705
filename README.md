@@ -1,7 +1,7 @@
 ## Hi I'm Emre <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm a Full Stack Developer specializing in web and mobile applications. I'm deeply committed to continuous learning and personal growth, always seeking to familiarize myself with the latest technologies to improve my skills.
-<br/><br/>
+<br/>
 
 :mailbox: Reach me out!
 
